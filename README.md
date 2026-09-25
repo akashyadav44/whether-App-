@@ -1,4 +1,7 @@
-# Weather App  >> live working link ( https://whether-app-one-cyan.vercel.app/ )
+# Weather App  
+
+>> live working link ( https://whether-app-one-cyan.vercel.app/ )
+
 
 A mobile-first weather app built with plain HTML, CSS and JavaScript. Search any city, or use your location, to see current conditions, an hourly outlook and a 7-day forecast. It has no build step, no dependencies and needs no API key.
 
